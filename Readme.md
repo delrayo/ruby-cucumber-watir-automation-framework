@@ -81,4 +81,3 @@ The environment and driver functionality can be customised via the environment v
 Browserstack Configuration
 --------------------------
 Browserstack is available via `rake browserstack`. You will need to set up your environment variables via the .env file first, to specify your login credentials and required browser/OS. To use this as part of a secure CI environment, Browserstack have an excellent guide on [their website](https://www.browserstack.com/automate/continuous-integration) to keep your credentials secure.
-lo agrego por que puedo
